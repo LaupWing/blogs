@@ -16,7 +16,7 @@ When improving a draft: read it fully first, then move the improved version to `
 
 1. **Read the draft as-is.** Understand what it's saying and what tone it has.
 2. **Improve grammar and flow** — fix errors, tighten sentences, improve readability. Do not change the voice.
-3. **Give recommendations** — based on what you read, suggest improvements. Use `STRUCTURE.md` and `HOOK.md` as reference, not as rules.
+3. **Always add a CLAUDE REVIEW block** at the top of the improved file (as an HTML comment). Include: what works, what doesn't, and concrete recommendations. Be direct, not diplomatic.
 4. **Never overhaul a draft** — if the structure or hook is already working, say so. Only flag things that are genuinely weak.
 
 ## References
@@ -49,6 +49,7 @@ Strip out words and phrases that sound AI-generated or fake. These kill authenti
 - Navigate (used metaphorically)
 - Tailored, curated
 - Fluff (and fluffy)
+- Overmatig gebruik van — (em dash) — AI misbruikt dit constant. Gebruik het hooguit 1x per tekst, alleen als het echt de beste optie is.
 - In conclusion, to summarize (as openers to a closing paragraph)
 
 **What to do instead:**

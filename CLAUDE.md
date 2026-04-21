@@ -6,11 +6,19 @@ Blogs move through three stages:
 
 ```
 /drafts      ← raw writing from Loc
-/ai          ← Claude has reviewed and improved it
+/ai          ← Claude has reviewed and improved it (Loc checks here)
 /published   ← approved and live on WordPress
 ```
 
-When improving a draft: read it fully first, then move the improved version to `/ai/`.
+**Draft → AI:**
+Read the draft fully, improve grammar and flow, then save two files to `/ai/`:
+- `.md` — so Loc can review and approve in markdown
+- `.html` — clean HTML (just `<p>` and `<h2>` tags, no wp: block comments)
+
+**AI → Published (only when Loc approves):**
+1. Move both `.md` and `.html` to `/published/`
+2. Run `python3 scripts/clipboard.py "/published/<filename>.html"` to copy the HTML to clipboard
+3. Remind Loc: **"Klaar — ga naar WordPress en plak (Cmd+V) in de visual editor."**
 
 ## How to approach a draft
 

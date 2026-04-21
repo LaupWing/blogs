@@ -11,14 +11,16 @@ Blogs move through three stages:
 ```
 
 **Draft → AI:**
-Read the draft fully, improve grammar and flow, then save one `.md` file to `/ai/` with the CLAUDE REVIEW block at the top so Loc can review.
+Read the draft fully, improve grammar and flow, then save one `.md` file to `/ai/`. Keep the original in `/drafts/` untouched — it's the archive. Add the CLAUDE REVIEW block at the top of the `/ai/` file so Loc can review.
 
 **AI → Published (only when Loc approves):**
-1. Move the `.md` to `/published/`
-2. Strip the CLAUDE REVIEW comment block from the published file
+1. Copy the `.md` from `/ai/` to `/published/` — keep the `/ai/` version intact as archive
+2. Strip the CLAUDE REVIEW comment block from the `/published/` file
 3. Update the frontmatter: add `status: published` and `date: <today>`
 4. Run `python3 scripts/clipboard.py "/published/<filename>.md"` — this converts markdown to HTML on-the-fly and copies it to clipboard
 5. Remind Loc: **"Klaar — ga naar WordPress en plak (Cmd+V) in de visual editor."**
+
+All three folders are kept as archive: `/drafts/` = raw original, `/ai/` = Claude improved, `/published/` = final clean version.
 
 ## How to approach a draft
 

@@ -1,22 +1,8 @@
-<!--
-CLAUDE REVIEW
-
-Hook/titel: "Multitalen in WordPress zonder 10.000 extra pagina's" werkt goed. Specifiek, duidelijke belofte.
-De opening van de draft was de zwakste plek (te complexe zin). Die is herschreven naar direct en simpel.
-
-Aanbevelingen:
-- Het stuk over je ervaring (10 jaar, 500 projecten) voelt wat lang. Overweeg het te korten tot 2 zinnen.
-- De downside sectie is sterk. Eerlijkheid werkt goed hier. Niet aanpassen.
-- "Lean and mean" in de conclusie is Engels in een Nederlandse tekst, maar het is een bekende uitdrukking. Laten staan of "slank en simpel" van maken, jij kiest.
-
-Wat ik niet heb aangeraakt:
-- De toon en humor (gigantische nerd, random gast). Dat is goed en authentiek.
-- De structuur. Die werkt.
--->
-
 ---
 title: Multitalen in WordPress zonder 10.000 extra pagina's
 language: nl
+status: published
+date: 2026-04-21
 ---
 
 Meertaligheid is een basisfunctionaliteit die WordPress nooit goed heeft opgelost. Je hebt plugins zoals Polylang en WPML, maar die delen allebei hetzelfde grote probleem.

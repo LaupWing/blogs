@@ -19,6 +19,7 @@ Read the draft fully, improve grammar and flow, then save one `.md` file to `/ai
 3. Update the frontmatter: add `status: published` and `date: <today>`
 4. Run `python3 scripts/clipboard.py "/published/<filename>.md"` — this converts markdown to HTML on-the-fly and copies it to clipboard
 5. Remind Loc: **"Klaar — ga naar WordPress en plak (Cmd+V) in de visual editor."**
+6. After Loc confirms it's live, ask: **"Wat is de live URL? Dan voeg ik hem toe aan de frontmatter."** Then add `url: <url>` to the frontmatter of the `/published/` file.
 
 All three folders are kept as archive: `/drafts/` = raw original, `/ai/` = Claude improved, `/published/` = final clean version.
 

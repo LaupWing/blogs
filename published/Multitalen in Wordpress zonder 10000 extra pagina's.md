@@ -3,9 +3,10 @@ title: Multitalen in WordPress zonder 10.000 extra pagina's
 language: nl
 status: published
 date: 2026-04-21
+url: https://blog.snelstack.com/multitalen-in-wordpress-zonder-10-000-extra-paginas/
 ---
 
-Meertaligheid is een basisfunctionaliteit die WordPress nooit goed heeft opgelost. Je hebt plugins zoals Polylang en WPML, maar die delen allebei hetzelfde grote probleem.
+Meertaligheid is een basisfunctionaliteit die WordPress nooit goed heeft opgelost. Je hebt plugins zoals Polylang en WPML, maar die delen allebei hetzelfde grote probleem. Waarom WordPress plugins überhaupt een probleem zijn, lees je [hier](https://blog.snelstack.com/3-redenen-waarom-wordpress-plugins-verleden-tijd-zijn/).
 
 Ze maken voor elke taal een nieuwe pagina aan. Dat leidt tot twee dingen: het wordt snel een onoverzichtelijke bende, en het maakt zowel het WordPress-dashboard als je website zelf trager.
 

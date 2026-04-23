@@ -2,6 +2,7 @@
 title: "Hoe kreeg ik een Perfecte website score in Wordpress met AI"
 status: published
 date: 2026-04-23
+url: https://blog.snelstack.com/hoe-kreeg-ik-een-perfecte-website-score-in-wordpress-met-ai/
 ---
 
 Vrij recent lanceerde ik een website voor een high-end antiekwinkel met een bijna perfecte score op alle vlakken van Lighthouse. Voor wie Lighthouse niet kent: het is een websitescanner van Google die je website een score geeft op snelheid, toegankelijkheid, best practices en SEO. Hoe beter de score, hoe sneller je rankt en hoe beter bezoekers je website ervaren.
@@ -26,7 +27,7 @@ Je hebt wel basiskennis nodig van code en het WordPress-ecosysteem. Als je geïn
 
 ## Stap 2: De juiste plugins
 
-Plugins zijn niet verleden tijd — maar simpele plugins wel. In een eerder artikel schreef ik hier al over. De nuance: complexe plugins met een hoge ontwikkelkosten blijven relevant. Afbeeldingen comprimeren is waarschijnlijk niet je core business, maar je hebt het wel nodig. Dan is het niet de moeite om dat zelf te bouwen.
+Plugins zijn niet verleden tijd — maar simpele plugins wel. In een [eerder artikel](https://blog.snelstack.com/3-redenen-waarom-wordpress-plugins-verleden-tijd-zijn/) schreef ik hier al over. De nuance: complexe plugins met een hoge ontwikkelkosten blijven relevant. Afbeeldingen comprimeren is waarschijnlijk niet je core business, maar je hebt het wel nodig. Dan is het niet de moeite om dat zelf te bouwen.
 
 Voor een perfecte Lighthouse score heb je drie soorten plugins nodig:
 
@@ -54,7 +55,7 @@ Je custom thema dekt al het grootste deel van je score. De plugins geven je de l
 2. RankMath
 3. All in One SEO
 
-Zelf host ik op SiteGround, dat ingebouwde snelheids- en afbeeldingsoptimalisatie biedt via hun eigen plugin. Die dekken praktisch alles. Voor SEO gebruik ik mijn eigen plugin, omdat ik een meertalige setup heb — lees hier meer over meertalig WordPress.
+Zelf host ik op SiteGround, dat ingebouwde snelheids- en afbeeldingsoptimalisatie biedt via hun eigen plugin. Die dekken praktisch alles. Voor SEO gebruik ik mijn eigen plugin, omdat ik een meertalige setup heb — lees hier meer over [meertalig WordPress](https://blog.snelstack.com/multitalen-in-wordpress-zonder-10-000-extra-paginas/).
 
 ## Stap 3: Kopieer, plak en vraag slim
 

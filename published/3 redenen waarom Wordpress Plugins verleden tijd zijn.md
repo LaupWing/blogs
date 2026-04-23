@@ -1,6 +1,7 @@
 ---
 status: published
 date: 2026-04-22
+url: https://blog.snelstack.com/3-redenen-waarom-wordpress-plugins-verleden-tijd-zijn/
 ---
 
 # 3 redenen waarom WordPress plugins verleden tijd zijn
@@ -47,6 +48,8 @@ Neem WPML. Je wilt simpelweg je website vertalen. WPML geeft je dat — plus tie
 
 Maar ze moeten alles dekken. En dat merk jij.
 
+Ik loste dit zelf anders op — zonder de rommel. [Lees hier hoe](https://blog.snelstack.com/multitalen-in-wordpress-zonder-10-000-extra-paginas/).
+
 ---
 
 ## Okay, maar wat heeft AI hier mee te maken?
@@ -60,5 +63,7 @@ En wat betekent dat? Custom plugins worden betaalbaar. Ook voor kleinere bedrijv
 In plaats van een generieke plugin te installeren die voor miljoenen mensen werkt maar voor jou maar half, kun je een plugin laten bouwen die precies doet wat jij nodig hebt. Niets meer, niets minder. Geen bugs van andermans code. Geen overbodige complexiteit. Veiligheid die je zelf controleert.
 
 Die realiteit is al begonnen. En met basiskennis van programmeren kun je nu meer zelf dan ooit.
+
+Wil je zien wat dat in de praktijk oplevert? [Zo behaalde ik een bijna perfecte Lighthouse score](https://blog.snelstack.com/hoe-kreeg-ik-een-perfecte-website-score-in-wordpress-met-ai/) met een custom WordPress setup.
 
 Als dat interessant klinkt en je iets wilt laten bouwen — snel, betaalbaar, gecheckt door een ervaren developer — stuur me een bericht: [snelstack@gmail.com](mailto:snelstack@gmail.com).

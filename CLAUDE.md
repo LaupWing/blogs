@@ -34,6 +34,26 @@ All three folders are kept as archive: `/drafts/` = raw original, `/ai/` = Claud
 - `STRUCTURE.md` — general blog structure (intro, body, takeaway). Use as a lens, not a template.
 - `HOOK.md` — what makes a strong hook and title. Offer alternatives only if the current hook is weak.
 
+## Blog Brands
+
+This repo contains two distinct brands. Keep them completely separate in tone, audience, and purpose.
+
+### Tech/WordPress (Snelstack)
+- **Audience:** small business owners who need a website, OR developers who want to validate Loc's expertise
+- **Goal:** generate leads for €2.500–3.500 WordPress projects
+- **Content mix:**
+  - *Laag 1 — ondernemer-gericht:* business results, herkenbare problemen ("waarom jouw site klanten kost"), case studies (Antiquewarehouse)
+  - *Laag 2 — technisch:* AI workflows, Lighthouse scores, plugins, custom themes — builds credibility
+- **Language:** Dutch (primary), English possible
+
+### Fitness (personal brand)
+- **Audience:** fitness enthusiasts, people wanting discipline and results
+- **Goal:** maintain existing 45K following
+- **Tone:** personal, direct, no coaching-speak
+- **Language:** Dutch or English
+
+When a draft comes in, check the filename or topic to determine which brand it belongs to and apply the right lens.
+
 ## Language
 
 Write in the same language as the draft. If the draft is in Dutch, improve in Dutch. If it's in English, improve in English. Do not switch or mix languages.

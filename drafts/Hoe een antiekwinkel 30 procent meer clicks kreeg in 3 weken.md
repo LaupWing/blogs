@@ -1,4 +1,4 @@
-# Wat er mis was met de website van een antiekwinkel (en wat we in 3 weken fixten)
+# Hoe een antiekwinkel 30% meer clicks kreeg in 3 weken
 
 ## Intro
 - antiekwinkel, 30+ jaar oud bedrijf, goede naam, slechte website

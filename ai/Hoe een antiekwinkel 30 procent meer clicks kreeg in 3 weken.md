@@ -1,3 +1,22 @@
+<!--
+CLAUDE REVIEW
+
+Wat werkt:
+- Sterke opening met een herkenbaar probleem voor elke ondernemer
+- De 9 problemen zijn goed opgebouwd: elk probleem kort uitgelegd met een praktisch voorbeeld
+- Echte cijfers maken het geloofwaardig — dit is geen theorie
+- De restaurant-analogie bij structured data is goed: maakt een technisch concept meteen begrijpelijk
+- CTA is simpel en laagdrempelig ("ik kijk het gratis voor je door")
+
+Wat minder werkt:
+- De intro begint vrij abstract. "Consistent aanwezigheid op het internet" voelt generiek. Overweeg harder in te stappen met het concrete verhaal van Antiquewarehouse.
+- "Nauwelijks mensen die de winkel vonden zonder dat ze er al van wisten" — dit is de kern van het probleem, maar het staat nu een beetje verstopt. Dit verdient meer nadruk.
+
+Aanbevelingen:
+- Overweeg de intro te beginnen met de klant: "Antiquewarehouse bestaat 20 jaar, heeft een goede naam, en liet toch dagelijks klanten liggen." Dan pas de context over Google.
+- De sectie "Wat ik fixte" is een droge lijst na een artikel vol uitleg. Dat is prima — het laat de omvang van het werk zien. Laat het zo.
+-->
+
 # Hoe een antiekwinkel 30% meer clicks kreeg in 3 weken
 
 1 van de grootste voordelen die je kan hebben bij Google is een consistente aanwezigheid op het internet. Dat laat Google zien dat je actief bent en waardig genoeg om hoger op de pagina te komen. Maar dat is helaas niet altijd genoeg.
@@ -68,7 +87,7 @@ Dit waren de non-HTTPS pagina's die Google bewust deprioriteerde. Ze telden niet
 
 ## De cijfers voor de lancering
 
-Voordat we begonnen zag het er zo uit over een periode van 28 dagen:
+Voordat ik begon zag het er zo uit over een periode van 28 dagen:
 
 - **666 clicks** — ongeveer 24 per dag
 - **32.940 impressies**
@@ -77,7 +96,7 @@ Voordat we begonnen zag het er zo uit over een periode van 28 dagen:
 
 Bijna al het verkeer kwam via branded zoekopdrachten — mensen die letterlijk "antique warehouse zeist" intikten. Nauwelijks mensen die de winkel vonden zonder dat ze er al van wisten.
 
-## Wat we fixten in 3 weken
+## Wat ik fixte in 3 weken
 
 - Volledige HTTPS migratie
 - JSON-LD structured data op alle producten (prijs, beschikbaarheid, SKU)
@@ -114,4 +133,4 @@ Een goed product verdient een goede website. De problemen bij Antiquewarehouse w
 
 ## Heb jij ook een website die klanten kost zonder dat je het doorhebt?
 
-De kans is groot dat jouw website dezelfde problemen heeft. Neem contact op en ik kijk het gratis voor je door.
+De kans is groot dat jouw website dezelfde problemen heeft. [Neem contact op](mailto:snelstack@gmail.com) en ik kijk het gratis voor je door.

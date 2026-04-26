@@ -48,10 +48,15 @@ Het echte probleem is ego. De meeste mensen kunnen moeilijk accepteren dat ze er
 
 ## 4: Ze redirecten nooit
 
-- persoonlijk verhaal: talloze keren de agent moeten bijsturen — bij code én bij email outreach
-- concreet codevoorbeeld: dubbele property keys op data object — als ik het niet gecheckt had stond het er gewoon in
-- concreet outreach voorbeeld: AI schrijft een follow-up die qua toon compleet afwijkt van de eerste mail — niemand die het merkt totdat de reply rate keldert
-- AI schrijft wat je vraagt, niet wat je bedoelt — jij bent de architect, niet de AI
+AI maakt fouten. Altijd. De vraag is niet óf het fout gaat, maar wanneer — en of jij het door hebt.
+
+Het probleem is dat AI meer zelfvertrouwen heeft dan jij. Het geeft antwoorden alsof het zeker weet wat het doet, ook als het er volledig naast zit. Als jij dat zelfvertrouwen niet terugspreekt, accepteer je de output gewoon. En dan zit de fout er in.
+
+Concreet voorbeeld uit mijn eigen werk: ik gebruikte Claude Code voor een data object en er zaten dubbele property keys in de output. Technisch gezien werkt dat — de tweede overschrijft de eerste — maar het was niet wat ik bedoelde en het gedrag was onvoorspelbaar. Als ik dat niet had gecheckt, stond het er gewoon in. Werkend, maar fout.
+
+Hetzelfde geldt voor email outreach. Als je de AI een follow-up mail laat schrijven maar je weet niet voor wie je het schrijft, waarom je het schrijft, en wat de gewenste actie is — dan kan je niet beoordelen of de output goed is. De AI schrijft iets dat er professioneel uitziet. Maar als de toon afwijkt van je eerste mail, als de call-to-action onduidelijk is, als het de verkeerde persoon aanspreekt — dan merkt niemand het totdat de reply rate keldert.
+
+Redirecten vereist zelfvertrouwen. Maar geen misplaatst zelfvertrouwen — zelfvertrouwen dat gebouwd is op echte kennis. Je moet genoeg weten om te herkennen wanneer de AI de fout in gaat. Wie dat niet heeft, nickt alles goed en denkt dat AI het wel regelt.
 
 ## 5: Ervaring is niet te faken — AI geeft je het resultaat zonder het proces
 
@@ -73,6 +78,8 @@ Het echte probleem is ego. De meeste mensen kunnen moeilijk accepteren dat ze er
 - zonder die kennis copy-paste je blind en hoop je dat het klopt
 
 ## Conclusie
+
+Mutlpiler maar heir is iets met vaaridghied is je skill niet 0 maar -1 hier dus als je tat muplier mkan je 3 keer rampzialig dingen otwniklen en je slechte kennis erger maken als je ego te groot is.
 
 - Claude Code is een multiplier — het maakt goede developers beter en slechte developers gevaarlijker
 - de tool is niet het probleem, de gebruiker is het probleem

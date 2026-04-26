@@ -76,11 +76,15 @@ Aansluitend op het vorige punt: stel je hebt een document met alle learnings van
 
 En dan is er iets specifieks voor Claude Code waar ik het nog niet over heb gehad: de CLAUDE.md file. Dit artikel gaat over Claude Code maar heeft nog weinig concrete Claude Code tips gegeven — dus hier is er een. In Claude Code kan je een CLAUDE.md bestand aanmaken in je project. Alles wat daarin staat wordt automatisch als context meegeladen bij elke sessie. Jouw codeerstijl, de architectuur van je project, wat wel en niet mag — je schrijft het één keer op en de AI weet het altijd. Dat is context op zijn best.
 
-## 7: Ze accepteren de eerste output zonder te reviewen
+## 7: Ze bouwen geen persoonlijk systeem met Claude Code
 
-- AI is zelfverzekerd, ook als het fout zit
-- reviewen vereist dat je weet wat goed is — of het nu code is of een sales email
-- zonder die kennis copy-paste je blind en hoop je dat het klopt
+De meeste mensen openen Claude Code, typen iets in, en beginnen opnieuw de volgende keer. Geen geheugen, geen structuur, geen systeem. Elke sessie start bij nul.
+
+Dat is alsof je elke dag opnieuw je werkplek inricht. Je kan werken, maar je bent veel tijd kwijt aan setup die je al had gedaan.
+
+De mensen die het meeste uit Claude Code halen, behandelen het als een werkplek die je inricht. CLAUDE.md bestanden per project — zodat de AI altijd weet wat de regels zijn, hoe de architectuur eruitziet, wat de tone of voice is. Herbruikbare prompts voor taken die je regelmatig doet. Een vaste manier van werken die je elke sessie meeneemt.
+
+Het verschil tussen iemand die Claude Code ad-hoc gebruikt en iemand die een systeem heeft gebouwd is enorm. De eerste typt elke keer dezelfde instructies opnieuw. De tweede heeft die instructies één keer goed opgeschreven en plukt er dagelijks de vruchten van.
 
 ## Conclusie
 

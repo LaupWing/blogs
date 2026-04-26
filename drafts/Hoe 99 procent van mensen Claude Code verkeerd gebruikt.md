@@ -78,9 +78,13 @@ En dan is er iets specifieks voor Claude Code waar ik het nog niet over heb geha
 
 ## 7: Ze bouwen geen persoonlijk systeem met Claude Code
 
-- 
-- 
-- 
+Aansluitend op context: een systeem is context plus structuur. Voor elke taak die je herhaaldelijk doet, is het de moeite waard om één keer een systeem te bouwen zodat je niet elke keer opnieuw hoeft te beginnen.
+
+Software developers hebben hier een voorsprong — ze zijn getraind in het bouwen van complexe systemen. Maar dat betekent niet dat jij het niet kan. Het kost alleen wat extra denkwerk. Voor wie niet weet wat ik bedoel: een systeem is simpelweg een project of map op je computer waar je Claude Code opent, met een CLAUDE.md file met alles erin wat nodig is om je processen goed uit te voeren.
+
+Concreet voorbeeld. Stel je gebruikt Mailchimp voor je email campagnes, maar Mailchimp heeft geen feature om de inhoud van je emails te beoordelen op basis van je klantprofiel. Wat je kan doen: emails schrijven als .md bestanden in een map, een top-level CLAUDE.md aanmaken met je klantprofiel en campagne-regels, de Mailchimp API gebruiken om open rates en CTRs op te halen, en de AI laten sparren of je emails aansluiten bij wat je klant wil. Dat is een systeem.
+
+Maar je zit er waarschijnlijk al bij met vragen. Hoe sla ik mijn emails op? Wat zet ik in mijn CLAUDE.md? Wat zijn de randvoorwaarden? Voeg ik datums toe? Labels? Dit zijn systeem-vragen en die kan je ook aan AI stellen — maar je hebt wel een systematische manier van denken nodig om de antwoorden te beoordelen. Developers hebben daar een edge. Als je hier meer over wil weten, stuur me een mail: snelstack@gmail.com
 
 ## Conclusie
 

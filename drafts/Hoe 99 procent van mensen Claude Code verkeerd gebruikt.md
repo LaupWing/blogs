@@ -60,10 +60,11 @@ Redirecten vereist zelfvertrouwen. Maar geen misplaatst zelfvertrouwen — zelfv
 
 ## 5: Ervaring is niet te faken — AI geeft je het resultaat zonder het proces
 
-- je kan niet over strategie nadenken als je nog nooit de gevolgen hebt gezien van een slechte beslissing
-- concreet: Dronestart (drone document consultancy app) 4 keer opnieuw gebouwd — elke keer betere architectuur, betere keuzes, minder technische schuld
-- de eerste versie werkte. de vierde versie schaalt. dat verschil leer je niet in een cursus
-- voor een ondernemer: iemand die een campagne 4 keer heeft gerund begrijpt wat er mis gaat. iemand die het met AI in een dag heeft neergezet niet
+Ik heb een app voor een klant — Dronestart — vier keer opnieuw gebouwd. Elke versie was beter dan de vorige — betere architectuur, betere keuzes, minder technische schuld. De eerste versie werkte. De vierde versie schaalt. Dat verschil zit niet in de code, dat zit in wat ik heb geleerd van de fouten daarvoor.
+
+AI geeft je het eindresultaat. Maar het proces — de fouten, de gevolgen, het opnieuw beginnen — dat is waar de echte kennis zit. Iemand die een systeem vier keer heeft gebouwd begrijpt wat er mis kan gaan. Iemand die het met AI in een week heeft neergezet niet.
+
+Dat geldt voor software, maar ook voor elke ondernemer. Iemand die een campagne vier keer heeft gerund weet waarom de derde flopped. Iemand die AI zijn eerste campagne laat schrijven heeft geen idee.
 
 ## 6: Ze geven geen context mee
 

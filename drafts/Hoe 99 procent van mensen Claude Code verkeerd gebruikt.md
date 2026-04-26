@@ -88,8 +88,12 @@ Maar je zit er waarschijnlijk al bij met vragen. Hoe sla ik mijn emails op? Wat 
 
 ## Conclusie
 
-Mutlpiler maar heir is iets met vaaridghied is je skill niet 0 maar -1 hier dus als je tat muplier mkan je 3 keer rampzialig dingen otwniklen en je slechte kennis erger maken als je ego te groot is.
+Claude Code en AI zijn een multiplier. Voor mensen die het correct gebruiken en basiskennis hebben van wat ze ermee willen doen, is de productiviteitswinst niet 2x maar misschien wel boven de 10x. Het is de moeite waard, ongeacht je vakgebied.
 
-- Claude Code is een multiplier — het maakt goede developers beter en slechte developers gevaarlijker
-- de tool is niet het probleem, de gebruiker is het probleem
-- ken je fundamenten, stel de juiste vragen, redirect waar nodig
+Maar hier moet ik eerlijk zijn. Een multiplier werkt in twee richtingen. Als je basiskennis niet op 0 staat maar op -1 — als je denkfouten maakt, verkeerde aannames hebt, of een ego dat geen feedback toelaat — dan maakt AI dat niet beter. Dan maakt AI het drie keer zo erg.
+
+AI creëert een illusie van kennis. Het geeft je output die er goed uitziet, zelfverzekerd klinkt, en snel komt. Maar als jij de kennis niet hebt om die output te beoordelen, bouw je verder op een fundament dat niet klopt. En hoe meer je bouwt, hoe groter de schade als het instort.
+
+Dus: ken je fundamenten. Weet hoe AI werkt. Redirect wanneer nodig. Gebruik het als sparringpartner, niet als vervanging voor nadenken.
+
+Heb je hulp nodig om je eigen AI systeem te realiseren? Stuur me een mail: snelstack@gmail.com

@@ -78,13 +78,9 @@ En dan is er iets specifieks voor Claude Code waar ik het nog niet over heb geha
 
 ## 7: Ze bouwen geen persoonlijk systeem met Claude Code
 
-De meeste mensen openen Claude Code, typen iets in, en beginnen opnieuw de volgende keer. Geen geheugen, geen structuur, geen systeem. Elke sessie start bij nul.
-
-Dat is alsof je elke dag opnieuw je werkplek inricht. Je kan werken, maar je bent veel tijd kwijt aan setup die je al had gedaan.
-
-De mensen die het meeste uit Claude Code halen, behandelen het als een werkplek die je inricht. CLAUDE.md bestanden per project — zodat de AI altijd weet wat de regels zijn, hoe de architectuur eruitziet, wat de tone of voice is. Herbruikbare prompts voor taken die je regelmatig doet. Een vaste manier van werken die je elke sessie meeneemt.
-
-Het verschil tussen iemand die Claude Code ad-hoc gebruikt en iemand die een systeem heeft gebouwd is enorm. De eerste typt elke keer dezelfde instructies opnieuw. De tweede heeft die instructies één keer goed opgeschreven en plukt er dagelijks de vruchten van.
+- 
+- 
+- 
 
 ## Conclusie
 

@@ -1,6 +1,7 @@
 ---
 status: published
 date: 2026-04-26
+url: https://blog.snelstack.com/hoe-99-van-mensen-claude-code-verkeerd-gebruikt/
 ---
 
 # Hoe 99% van mensen Claude Code verkeerd gebruikt

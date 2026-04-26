@@ -68,9 +68,13 @@ Dat geldt voor software, maar ook voor elke ondernemer. Iemand die een campagne 
 
 ## 6: Ze geven geen context mee
 
-- Claude Code weet niks over jouw situatie tenzij je het vertelt
-- developers typen "fix this bug" zonder context — ondernemers typen "schrijf een outreach mail" zonder te zeggen wie de ontvanger is, wat het aanbod is, wat eerder al geprobeerd is
-- resultaat: een output die technisch klopt maar nergens op slaat
+Dit is een belangrijk punt en het sluit direct aan op het vorige. Je hebt context nodig. Dit is eigenlijk zo'n groot onderwerp dat ik er een apart artikel over kan schrijven, maar laten we eerst definiëren wat context überhaupt is.
+
+Context kan alles zijn. Een spreadsheet met de kosten van je bedrijf. Je volledige software projectmap. Een tekstdocument met lessen en fouten uit je vorige email campagnes. Alles wat relevant is voor de taak die je de AI geeft.
+
+Aansluitend op het vorige punt: stel je hebt een document met alle learnings van je outreach campagnes — wat werkte, wat niet, welke toon sloeg aan. Dat kan je meegeven als context wanneer je de AI vraagt je klantprofiel te valideren. Of andersom: klantprofiel als context gebruiken om te checken of je campagne aansluit. En voor software geldt hetzelfde — als je een nieuwe feature wil bouwen, geef je klantprofiel mee als context zodat de AI begrijpt voor wie het gebouwd wordt.
+
+En dan is er iets specifieks voor Claude Code waar ik het nog niet over heb gehad: de CLAUDE.md file. Dit artikel gaat over Claude Code maar heeft nog weinig concrete Claude Code tips gegeven — dus hier is er een. In Claude Code kan je een CLAUDE.md bestand aanmaken in je project. Alles wat daarin staat wordt automatisch als context meegeladen bij elke sessie. Jouw codeerstijl, de architectuur van je project, wat wel en niet mag — je schrijft het één keer op en de AI weet het altijd. Dat is context op zijn best.
 
 ## 7: Ze accepteren de eerste output zonder te reviewen
 

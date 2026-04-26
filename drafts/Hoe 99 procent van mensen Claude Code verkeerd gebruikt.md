@@ -1,40 +1,50 @@
 # Hoe 99% van mensen Claude Code verkeerd gebruikt
 
-Ongeacht de naam Claude Code is het eigenlijk een tool dat niet alleen bedoeld is voor programmeurs. De hoofd doelgroep is inderdaad wel software ontwikkelaars en die halen ook wel het meeste uit de tool. Maar in praktijk kan iedereen het gebruiken en gigantische veel waarde uit halen om taken uit te voeren of automatiseren op je computer. Want in alle vakgebieden gebruik je je computer of het internet in 1 of andere manier dus ik kan bijna met garatnie zeggen dat iedereen er profijt aan kan ehbben.
+Ondanks de naam is Claude Code niet alleen voor programmeurs. De primaire doelgroep zijn software ontwikkelaars, en die halen er ook het meeste uit. Maar in de praktijk kan iedereen het gebruiken en er enorm veel waarde uit halen — voor taken uitvoeren, automatiseren, of gewoon sneller werken. Want vrijwel iedereen gebruikt een computer of het internet in zijn werk, dus het is bijna niet mogelijk om er geen profijt van te hebben.
 
-Dat gezegd te hebben van de mense die het gebruiken zie ik dat. 99% van de gebruikers het echt veelste verkeerd gebruiken wat ervoor zorgt dat ze bijna geen verschil zien in het gebruiken van de tool. Degene die het correct gebruiken zien een toename van productiviet dat kan oplopen tot 10 misschien zelfs meer.
+Dat gezegd hebbende: van de mensen die het gebruiken, doet 99% het verkeerd. Ze zien nauwelijks verschil met hoe ze daarvoor werkten. De mensen die het correct gebruiken zien een productiviteitsstijging die kan oplopen tot 10x, soms meer.
 
-Maar wie ben ik om hierover te praten? Nou ik been een softwareontwikkelaar met 10 jaar eravrign, dagelijks programmeren en meer dan 500 projecten. Waarvan wat van de projeten ik persoonlijk gemaakt heb voor bedijrvne dus ik heb niet allen verstnad van programmeren maar bedrijfs gerichte impactvolle oplossingen maken.
+Maar wie ben ik om hierover te praten? Ik ben softwareontwikkelaar met 10 jaar ervaring, programmeer dagelijks, en heb meer dan 500 projecten achter de rug. Waarvan een deel voor bedrijven — dus ik begrijp niet alleen code, maar ook wat een oplossing daadwerkelijk moet doen voor een bedrijf.
 
-En in dit artkel zou ik jou de 7 redenen geven waaorm de meeste mensen claude code (of andere ai tool zoals chatpgt) totaal verkeerd gebruiken.
+In dit artikel geef ik je de 7 redenen waarom de meeste mensen Claude Code — en eigenlijk elke AI-tool — totaal verkeerd gebruiken.
 
 ## 1: Ze gebruiken het om snel iets gedaan te krijgen, niet om vragen te stellen
 
-Laten we beginnen met de basis want daar word alles op gebouwd vandaaruit kan je veel beter je AI vaardigheden op bouwen. En dat is hoe je de tool te gebruikt. Wat de meeste mensen doen is de tool gebruiken om zo snel mogelik iets af te krijgen, zonder dat ze er uberhaupt verstand van wat doen.
+Dit is de basis. Hier wordt alles op gebouwd.
 
-Ik kan hier een voorbeeld van geven. Een tijdje geleden werkte ik part time als hoofd ontwikkelaar bij een startup. Ik kan wel een heel boek scrhijven wat hier allemaal foutging maar laten we maar bij dit specifieke punt blijven. De CEO van de startup was een relatief beginnende ondernemer, dus ze had nog wel wat gebrek aan vaardigheden.
+Wat de meeste mensen doen is de tool gebruiken om zo snel mogelijk iets af te krijgen, zonder dat ze echt begrijpen wat ze nodig hebben. Ze hebben een probleem in hun hoofd, typen het in, en hopen op een oplossing. Dat werkt soms. Maar het leidt ook regelmatig naar de verkeerde kant.
 
-1 daarvan was google analytics en ze gebruikte chatgpt om erachter te komen hoe ze website bezoekers kan tracken maar ze wou dat doen door te doen op een speciefiek knopje klik. Naja als ontwikkelaar dacht ik al waarom alleen daarop? Je kan veel beter simpelweg webpaginas tracken.
+Een concreet voorbeeld. Een tijdje geleden werkte ik parttime als hoofd ontwikkelaar bij een startup. De CEO — relatief beginnende ondernemer — wilde websitebezoekers tracken via Google Analytics. Specifiek: ze wilde bijhouden wanneer iemand op een bepaalde knop klikte.
 
-Ze had dat in haar hoofd dus was ze steenvast om dat op te lossen met AI, dit was niet alleen ingewikkeld voor haar maar ze wist niet eens of de oplossign de beste was of dat zelfs mgoelijk was. Al deze problemen waren ontstaan vanwege de kloof van kennis dat er op dat moment was.
+Als ontwikkelaar dacht ik meteen: waarom alleen die knop? Je kan gewoon pagina's tracken, dat is veel simpeler en nuttiger. Maar zij had dat al in haar hoofd, was er steenvast van overtuigd, en gebruikte ChatGPT om het voor elkaar te krijgen. Resultaat: een oplossing die ingewikkeld was, niet goed werkte, en die ze niet begreep.
 
-Als ze simpel vragen ging stellen of het wel uberhaput td egoeie oplossing was en wat ze preices wou en ging sparren met de ai naar de best oplossing en vragen stellen over wat googel anlatys kan en niet dan zou je niet alleen op eenbetere oplossign komen maar snellere. AI is op het einde van de dag eigenlijk hele adviseur met alle kennis die stom naar je luisterd.
+Het probleem was niet de AI. Het probleem was dat ze nooit de vraag had gesteld of dit überhaupt de juiste oplossing was. Als ze dat eerst had gedaan — gewoon sparren met de AI over wat ze precies wilde bereiken en wat de opties waren — was ze sneller op een betere plek uitgekomen.
 
-En ik snap hetook wel waarom ze steenvast was, ze wou snel eensiemple oplossing hebben. Maar als je ergens geen verstand van heb of nauwelijks is het veel beter om rustigere aan te doen kennis opdoen hoef niet te veel en vandaaruit de beste plan te maken. Dit probleem is trouwens veel prominenter in de devleoprsw wereld en veel meer rampzalig.
+AI is op het einde van de dag een adviseur die alles weet en niets terugspreekt. Gebruik het als sparringpartner, niet als uitvoermachine.
 
 ## 2: Ze beoordelen op volume in plaats van kwaliteit
 
-AI is snel... AI is heel snel. AI kan namelijk een hele blog of programma schrijven in slechts minuten wat
+AI is snel. Heel snel. Een hele blog of een volledig programma in minuten — wat vroeger dagen of weken kostte.
 
-- meer output = meer werk gedaan — dat klopt niet
-- AI genereert makkelijk een lange email waar één zin genoeg is, of 500 regels code waar 50 genoeg is
-- als je niet weet wat goed is, zie je het verschil niet
+Maar meer is niet beter. Meer is in de meeste gevallen slechter. Een lang blogartikel over een waardeloos onderwerp is gewoon meer onzin. Voor blogs is de schade beperkt. Voor software is het rampzalig.
+
+Een developer die AI gebruikt om zo snel mogelijk veel code te genereren, levert een project op dat eruitziet alsof het werkt. Maar niemand begrijpt de code — ook de developer zelf niet. Drie maanden later is er een bug, wil je iets aanpassen, en niemand weet waar ze moeten beginnen. De 10.000 regels die in één dag zijn gegenereerd kosten nu weken aan uitzoekwerk.
+
+En toch zijn er CEO's die opscheppen over developers die 10.000 lines of code per dag uitbrengen met AI. Zonder te beseffen dat ze aan het opscheppen zijn over een tijdbom.
+
+De enige hoeveelheid waar je echt in moet investeren is tijd om het probleem goed te begrijpen. Planning, nadenken, sparren met AI over wat de beste aanpak is. Dat is waar AI echt in uitblinkt — niet in blindelings veel produceren.
 
 ## 3: Geen fundamentele kennis maar wel iets kunnen maken — de Dunning-Kruger illusie
 
-- AI maakt het makkelijk om iets neer te zetten zonder te begrijpen wat je neerzet
-- je kan een huis bouwen zonder te weten hoe fundamenten werken — totdat het instort
-- geldt voor code én voor outreach, copy, strategie — gevaarlijkste type: genoeg kennis om iets te maken, te weinig om te zien wat er mis is
+Dit punt raakt me persoonlijk, dus je voelt hier waarschijnlijk iets van mijn mening.
+
+Ik zie schoonheid in het opbouwen van een vaardigheid door herhaling en lange oefening. Ik doe al 15 jaar aan gewichtheffen. Niet omdat het snel gaat, maar omdat ik begrijp dat de kunst zit in het proces zelf — rep voor rep, jaar na jaar. Datzelfde geldt voor software: 10 jaar dagelijks programmeren geeft je iets wat je niet kan kopen of overslaan. Spieren kweken kan AI niet voor je doen. Software schrijven kan AI wel. En dat zorgt voor een gevaarlijk misverstand: AI bouwt één app voor je, en mensen denken dat ze het nu snappen.
+
+Maar zodra ze 60% in de ontwikkeling zitten en iets breekt, lopen ze vast. Ze weten niet wat er fout gaat, waar het fout gaat, of hoe ze het oplossen. Achter software zitten jaren aan kennis en tientallen lagen die fout kunnen gaan. AI kan die context niet onthouden en kan die kennis niet vervangen.
+
+En dit geldt niet alleen voor software. Het geldt voor marketing, SEO, blog schrijven, sales. Zelfs een simpel blogartikel schrijven vereist dat je weet voor wie je schrijft, waarom je het schrijft, en of het doel haalt. Dat is iets wat jij moet weten — AI kan het niet voor je invullen als jij het zelf niet weet.
+
+Het echte probleem is ego. De meeste mensen kunnen moeilijk accepteren dat ze ergens nog niet goed genoeg in zijn. Maar dat is geen schande. Met AI kan je veel sneller bekwaam worden — als je eerlijk bent over waar je nu staat. Wie dat kan toegeven, kan AI gebruiken om te groeien. Wie dat niet kan, blijft ronddraaien in een cirkel van output die nergens op slaat.
 
 ## 4: Ze redirecten nooit
 

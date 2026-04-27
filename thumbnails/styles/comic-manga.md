@@ -29,4 +29,4 @@ Content to visualize (turn each key point into a dramatic comic panel):
 Make it dramatic, cinematic, and visually striking. The comic should feel like a page from a cyberpunk manga that metaphorically represents the content above.
 
 ---
-Specs: PNG, 1200x675 (16:9). File name: kebab-case-matching-post-slug.png
+Specs: PNG, 1200x675 (16:9).

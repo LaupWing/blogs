@@ -30,6 +30,15 @@ All three folders are kept as archive: `/drafts/` = raw original, `/ai/` = Claud
 3. **Always add a CLAUDE REVIEW block** at the top of the improved file (as an HTML comment). Include: what works, what doesn't, and concrete recommendations. Be direct, not diplomatic.
 4. **Never overhaul a draft** — if the structure or hook is already working, say so. Only flag things that are genuinely weak.
 
+## Thumbnails
+
+When Loc asks for a thumbnail, use the PanelForge system in `/thumbnails/`:
+1. List published articles from `/published/`
+2. Ask which article
+3. List styles from `/thumbnails/styles/`
+4. Ask which style
+5. Fill in the context and copy the prompt to clipboard with `pbcopy`
+
 ## References
 
 - `STRUCTURE.md` — general blog structure (intro, body, takeaway). Use as a lens, not a template.

@@ -11,7 +11,8 @@ When opened, do the following steps:
 5. **Fill in {{CONTEXT}}** — replace with: article title + numbered list of key points (written as visual scene descriptions, not just headings)
 6. **Copy to clipboard** — run `pbcopy` with the completed prompt
 7. **Generate alt text** — output a ready-to-use alt text in this format: `"Cyberpunk comic strip illustrating [topic]: [brief scene description]"`
-8. **Confirm** — tell the user the prompt is copied and ready to paste into Gemini, Midjourney, or DALL-E
+8. **Generate filename** — output the filename in kebab-case matching the post slug, e.g. `hoe-99-procent-claude-code-verkeerd-gebruikt.png`
+9. **Confirm** — tell the user the prompt is copied and ready to paste into Gemini, Midjourney, or DALL-E
 
 ## Context format
 

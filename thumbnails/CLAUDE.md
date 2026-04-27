@@ -10,7 +10,8 @@ When opened, do the following steps:
 4. **Read the style template** — open the chosen style file
 5. **Fill in {{CONTEXT}}** — replace with: article title + numbered list of key points (written as visual scene descriptions, not just headings)
 6. **Copy to clipboard** — run `pbcopy` with the completed prompt
-7. **Confirm** — tell the user the prompt is copied and ready to paste into Gemini, Midjourney, or DALL-E
+7. **Generate alt text** — output a ready-to-use alt text in this format: `"Cyberpunk comic strip illustrating [topic]: [brief scene description]"`
+8. **Confirm** — tell the user the prompt is copied and ready to paste into Gemini, Midjourney, or DALL-E
 
 ## Context format
 

@@ -1,5 +1,8 @@
 # Blogs — Claude Instructions
 
+## Goal
+4-6 blogs per month (1-2 per week). Consistency is the only metric that matters here.
+
 ## Workflow
 
 Blogs move through three stages:

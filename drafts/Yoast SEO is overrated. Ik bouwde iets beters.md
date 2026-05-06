@@ -2,12 +2,15 @@
 
 ## Intro
 
-- Yoast SEO staat op meer dan 10 miljoen websites
-- Als WordPress-developer installeer je het bijna automatisch — iedereen doet het
-- Ik doe het niet meer
-- En ik heb een eigen plugin gebouwd die het vervangt — op elke website die ik bouw
+Zodra je Wordpress gebruikt voor je website kom je al snel achter wie de koning is van SEO in de Wordpress SEO ecosysteem. Je heb het waarschijnlijk al geraden en dat is inderdaad Yoast SEO. Yoast SEO is een plugin op Worpdress dat gebruikt word door meer dan 10 miljoen websites.
+
+Elke developer of agency download het bij default als standaard seo gereedschap, maar dat het standaar gebruikt wrod betkenet niet bij defaulat dat het de beste manier is of zelfs goed. Ik heb een hele aritkel gsechireven over waarom plugins verleden tijd is en je ze moet gaan minimaliseren je khet lezen hier: [insert artikel]
+
+Ik persoonlijk gebruik de Yoast SEO tool niet meer en heb mijn eigen plugin gebouwd die ik op elk ewebiste bouw. Er zijn een paar aantal redenen waarom je Yoast SEO of zelfs andere SEO tools beter niet meer kan gebruiken en beter kan neigen naar een custom seo Tool.
 
 ## 3 Grote problemen met Yoast
+
+Met een paar zou ik het beperken tot 3 grote problemen, het zijn er wel een stuk meer. Deze problemenzijn tevens vaak ook relevant voor andere popupaire plugins of het nou voor SEO is of voor Website versnellers.
 
 ### 1. Het is gebouwd voor iedereen — en dat is het probleem
 

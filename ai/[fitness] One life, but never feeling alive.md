@@ -24,7 +24,7 @@ If you look back at your life will you be happy and satisfied with what you have
 
 Here is the sad reality: most people will go out with regret. And that is if they even have the capability to self-reflect to such an extent, but that is a topic for another conversation.
 
-Most people never do things that are actually for themselves. I mean really think about it.
+Most people never do things that are actually for themselves. Really think about it.
 
 They go to school because of society.
 They pick a school that their parents like.

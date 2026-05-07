@@ -4,8 +4,6 @@ If you look back at your life will you be happy and satisfied with what you have
 
 Here is the sad reality: most people will go out with regret. And that is if they even have the capability to self-reflect to such an extent — but that is a topic for another conversation. In a sense it is a blessing and a curse at the same time. The more you know yourself, the more burden you carry to do something about it. One is never better than the other. It just simply is.
 
-I have way too much self-reflection — mostly because of my past. I got bullied a lot and turned inward to fix things. That awareness has its advantages. It also has serious downsides. Other topic though.
-
 What this article is about is how most people lack this awareness massively. Most people never do things that are actually for themselves. I mean really think about it.
 
 They go to school because of society.
@@ -18,8 +16,6 @@ That is like 90% of the human population. And if you really analyze that, most o
 If you've ever really talked to an average 40 to 50 year old man you can see the emptiness in their eyes. It's not something most people particularly like to hear, nor do I particularly like to say it. But it is true.
 
 Is that what you call alive? Doing things your whole life for somebody else? If you ask me that is a premature death rather than actually living — and sorry if that sounds harsh.
-
----
 
 ## The ones who got it right
 
@@ -35,20 +31,29 @@ And here's the thing. It didn't come easy for any of them. There were hard momen
 
 The ones who chose the easy path, who followed the script, they'll tell you themselves it wasn't worth it.
 
-## Fitness as a mirror
+## Fitness as the catalyst
 
-The first place where most people are forced to choose themselves is sport.
+They are all fit. Every single one of them works out almost every day. And there is a really good reason for this.
 
-Because sport is one of the few things where only you benefit. You can't do it for someone else. You can't fake it long-term.
+Everything else starts from fitness. It is the foundation of feeling alive and living life on your own terms. Nobody benefits from you being fit besides yourself. You are the sole beneficiary of your healthy body and lifestyle. Nobody will carry you there either.
 
-And that's exactly why it's hard — because your environment will push back:
+From my observation there are a few major reasons why fitness is a catalyst. One of them is obvious. The other one is not — although it is right in front of our noses.
 
-- not joining your friends drinking — they won't be happy
-- eating cleaner — no cake at the family dinner, that lands badly
-- going to bed early, skipping events, prioritizing recovery
-- choosing discomfort when everyone around you chooses comfort
+The obvious one: if you are not fit and healthy it severely limits your ability to feel alive no matter what you do. If you go on vacation and you are constantly tired, sick, or dealing with a chronic condition that prevents you from enjoying anything — it is hard to actually feel alive. Because you feel like shit all the time.
 
-Most people quit. Not because sport is too hard — but because choosing themselves, consistently, against the resistance of their environment, is too hard.
+The not so obvious one: being fit requires you to actively choose yourself. Constantly. And here is the funny thing about the world we live in — everything is designed to make it easy for you to become overweight and unhealthy. Fast food on every corner. Alcohol at every social event. Screens built to keep you sitting. It creates this illusion of comfort. And that makes it ironically more uncomfortable to actually be healthy.
+
+To be fit you have to cut alcohol, eat real food, move regularly, train consistently, go to bed early, skip events, say no to the cake at the family dinner.
+
+You probably think: that sounds like restriction, not freedom. Like being trapped, not alive.
+
+But here is the contradiction. Most people are already slaves — to their impulses, to social pressure, to comfort. They eat the cake because everyone else does. They drink because saying no is awkward. They skip the gym because the couch is right there. They call that freedom. It isn't.
+
+The person who trains at 6am, eats clean, and goes home early — they made a choice. Their own choice. Against the current. That is not restriction. That is the only real freedom that exists: the ability to choose your own constraints instead of having them chosen for you.
+
+Going to bed early, skipping events, prioritizing recovery, choosing discomfort when everyone around you chooses comfort — that is not sacrifice. That is ownership.
+
+Most people quit. Not because fitness is too hard. But because choosing themselves, consistently, against the resistance of their environment, is too hard.
 
 That's the real test. Not the training. The choosing.
 

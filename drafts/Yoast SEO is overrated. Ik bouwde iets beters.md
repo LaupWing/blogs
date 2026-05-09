@@ -1,7 +1,5 @@
 # Yoast SEO is overrated. Ik bouwde iets beters.
 
-## Intro
-
 Zodra je WordPress gebruikt voor je website kom je er snel achter wie de koning is van SEO binnen het WordPress-ecosysteem. Je hebt het waarschijnlijk al geraden: Yoast SEO. Een plugin die gebruikt wordt door meer dan 10 miljoen websites.
 
 Elke developer of agency installeert het standaard als SEO-tool. Maar dat iets standaard wordt gebruikt, betekent niet dat het de beste manier is. Of zelfs goed. Ik heb een heel artikel geschreven over waarom plugins verleden tijd zijn en je ze moet minimaliseren. Lees hem hier: [insert artikel]
@@ -40,6 +38,8 @@ Een SEO-plugin moet doen wat 'ie moet doen: meta descriptions, canonical tags, O
 
 Niks extra's. Een SEO-plugin moet geen blogs voor je schrijven, niet je was doen, en niet je boterham met kaas smeren in de ochtend. Hij moet ervoor zorgen dat Google je website kan indexeren zodat je bezoekers krijgt. Die simpliciteit zorgt ervoor dat je website snel en overzichtelijk blijft.
 
+Op één ding heb ik wel bewust ingezet: meertaligheid. Yoast doet dat niet standaard. Daar heb je Yoast Premium voor nodig én een vertaalplugin zoals WPML of Polylang erbovenop. Bij mij zit het er gewoon in. Hreflang-tags, meta descriptions per taal, alles netjes geregeld. Ik heb hier een apart artikel over geschreven hoe je meertaligheid in WordPress oplost zonder 10.000 extra pagina's. Lees hem hier: [Multitalen in WordPress zonder 10.000 extra pagina's](https://blog.snelstack.com/multitalen-in-wordpress-zonder-10-000-extra-paginas/).
+
 Je denkt nu waarschijnlijk: okay... maar ik heb wel blogs nodig om mijn positie te verhogen. En daarop zeg ik: jazeker. Maar het is altijd beter om daar aparte plugins voor te hebben, die specifiek voor dat soort taken gebouwd zijn. Niet 1 app die alles halfgebakken doet. Want geloof me, die SEO-plugins die dat aanbieden, doen het halfgebakken.
 
 Daarnaast is mijn SEO-plugin uitbreidbaar. De fundering ligt goed, zodat extra functionaliteit erop gebouwd kan worden als dat nodig is. Alle specifieke SEO-features die je nodig hebt, kunnen worden toegevoegd, omdat het fundament klopt. Ik heb hier een ander artikel over geschreven waarom de meeste websites (of in dit geval plugins) een tijdbom zijn vanwege slechte architectuur. Lees hem hier: [insert artikel]
@@ -52,16 +52,4 @@ Geen enkele klant vindt het leuk om langer dan 2 seconden te wachten per pagina.
 
 Voor concrete resultaten, bekijk dit artikel: [insert artikel]
 
-## Maar kan een gewone website-eigenaar dit?
-
-Nu vraag je je waarschijnlijk af: kan een gewone website-eigenaar zelf zo'n custom plugin bouwen? Nee. En dat is ook niet het punt.
-
-Het punt is: de tool die jij gebruikt moet passen bij jouw situatie. Als je een simpele WordPress-website hebt en je redt jezelf met wat hulp, vraag jezelf dan eerlijk af of Yoast Premium echt nodig is. Negen van de tien keer is het antwoord nee.
-
-En als je iemand inhuurt om je website te bouwen: vraag wat ze gebruiken en waarom. Een goede developer kan zonder problemen uitleggen waarom hij voor een bepaalde plugin kiest. Als het antwoord "omdat het standaard zo gaat" is, dan weet je genoeg.
-
-## CTA
-
-Ik bouw websites waar SEO vanaf dag 1 goed zit. Geen plugin-rommel, geen jaarlijkse kosten voor features achter een betaalmuur. Gewoon een snelle website die Google snapt en bezoekers vasthoudt.
-
-Benieuwd wat dat voor jouw website kan opleveren? Stuur me een bericht, dan kijken we ernaar.
+Bij elke website die ik bouw zit SEO vanaf dag 1 goed. Geen plugin-rommel, geen jaarlijkse kosten voor features achter een betaalmuur. Gewoon een snelle website die Google snapt en bezoekers vasthoudt. Zo hoort het gewoon te zijn.

@@ -2,68 +2,66 @@
 
 ## Intro
 
-Zodra je Wordpress gebruikt voor je website kom je al snel achter wie de koning is van SEO in de Wordpress SEO ecosysteem. Je heb het waarschijnlijk al geraden en dat is inderdaad Yoast SEO. Yoast SEO is een plugin op Worpdress dat gebruikt word door meer dan 10 miljoen websites.
+Zodra je WordPress gebruikt voor je website kom je er snel achter wie de koning is van SEO binnen het WordPress-ecosysteem. Je hebt het waarschijnlijk al geraden: Yoast SEO. Een plugin die gebruikt wordt door meer dan 10 miljoen websites.
 
-Elke developer of agency download het bij default als standaard seo gereedschap, maar dat het standaar gebruikt wrod betkenet niet bij defaulat dat het de beste manier is of zelfs goed. Ik heb een hele aritkel gsechireven over waarom plugins verleden tijd is en je ze moet gaan minimaliseren je khet lezen hier: [insert artikel]
+Elke developer of agency installeert het standaard als SEO-tool. Maar dat iets standaard wordt gebruikt, betekent niet dat het de beste manier is. Of zelfs goed. Ik heb een heel artikel geschreven over waarom plugins verleden tijd zijn en je ze moet minimaliseren. Lees hem hier: [insert artikel]
 
-Ik persoonlijk gebruik de Yoast SEO tool niet meer en heb mijn eigen plugin gebouwd die ik op elk ewebiste bouw. Er zijn een paar aantal redenen waarom je Yoast SEO of zelfs andere SEO tools beter niet meer kan gebruiken en beter kan neigen naar een custom seo Tool.
+Ik gebruik Yoast SEO zelf niet meer. Ik heb mijn eigen plugin gebouwd die ik op elke website inzet. Er zijn een paar redenen waarom je Yoast SEO (en andere SEO-plugins) beter links kunt laten liggen en kunt kiezen voor een custom oplossing.
 
 ## 3 Grote problemen met Yoast
 
-Met een paar zou ik het beperken tot 3 grote problemen, het zijn er wel een stuk meer. Deze problemenzijn tevens vaak ook relevant voor andere popupaire plugins of het nou voor SEO is of voor Website versnellers.
+Ik beperk het tot 3 grote problemen, het zijn er meer. Deze problemen gelden trouwens vaak ook voor andere populaire plugins, of het nou voor SEO is of voor website-versnellers.
 
 ### 1. Het is gebouwd voor iedereen — en dat is het probleem
 
-Of je nou een webshop ben, een blogger, een gemeente of zelfs een viswinkel. Yoast SEO moet voor iedereen werken. Heel veer verschillende instellignen om ieder verlangens voor de app te vervullen. En wat betekent dit? Dit betekent dat je honderden funcitonalteiten heben die je niet gebruikt. Dat is onnodige complixiteit en schermen voor iets dat je nooit zou aanraken.
+Of je nou een webshop hebt, een blog, een gemeentewebsite of een viswinkel: Yoast SEO moet voor iedereen werken. Honderden instellingen om elke wens te dekken. En wat betekent dat? Dat je honderden functionaliteiten hebt die je nooit gebruikt. Onnodige complexiteit en schermen voor iets wat je nooit zou aanraken.
 
-En voor een seo plugin is het vooral onnodig. Google wilt simpelweg weten wat je website inhoud door middel van je meta descripiton, title en website content (beetje platgeslagen, maar is wel de waarheid). Dat is ook wat je wilt dat een seo plugin doet, niet tientallen andere dingen die je misschien nodig heb waarvoor je zelfs een SEO spoed cursus voor moet volgen.
+En voor een SEO-plugin is dat extra onnodig. Google wil simpelweg weten wat je website inhoudt via je meta description, title en content (plat gezegd, maar het is wel de waarheid). Dat is ook wat je wilt dat een SEO-plugin doet. Niet tientallen andere dingen waar je een spoedcursus SEO voor nodig hebt.
 
 ### 2. Het vertraagt je website
 
-Wat meer schermen en functionalitieten ook betekent is dat je webiste meer code (Javscript en CSS, maar ik zou je de technichse kant bepsaren) gaat laden op elke pagian. Dat klinkt asl een klein iets, maar dat is het zeker niet.
+Meer schermen en functionaliteiten betekent ook dat je website meer code (JavaScript en CSS, maar de technische kant ga ik je besparen) laadt op elke pagina. Dat klinkt als een klein iets, maar dat is het zeker niet.
 
-1 van de rankingsfacotren voor google is snelheid. Hoe slomer je website hoe lager google je gaat ranken. Naast dit hoef je geen raket wetenscahpper te zijn om te weten dat je klatnen het waarschijnlijk ook niet heel fijn vinden als het 5 seconden duurt voordat ze iets van je website zien.
+Snelheid is een van de rankingfactoren van Google. Hoe trager je website, hoe lager je rankt. En je hoeft geen rocket scientist te zijn om te snappen dat je klanten het ook niet leuk vinden om 5 seconden te wachten voordat ze iets zien.
 
-En snelheid heeft altijd te maken met hoeveel code en media word geladen op je website. Hoe meer code hoe langer het duurt. En al dat onnodige funcitonatliet laad dus ook onooddige code voor jouw achterkant en jouw website beozkers. Het ironishce hier is that de ene plugin dat je simpelweg seo moet gaat helpen ook idniriect voorkomt dat seo optimaal werkt.
+Snelheid heeft altijd te maken met hoeveel code en media er geladen wordt. Hoe meer code, hoe langer het duurt. Al die onnodige functionaliteit laadt dus ook onnodige code voor jouw backend én je bezoekers. Het ironische hier: de plugin die je SEO moet helpen, voorkomt indirect dat je SEO optimaal werkt.
 
 ### 3. Je betaalt voor features die je niet gebruikt
 
-Een andere kwaaltje dat ik heb met Yoast (zijn er meer maar ik hou het hierbij haha) is dat ze een paar essentiele functionatlieten achter en betaal muur stoppen van 99 euro per jaar per webiste, zoals de keyword funcotiatnoiel. Dit hoort voor min eeerlijk opninie gratis, wnat nu betaal je 99 euro voor 1 website per jaar voor 1 feature van de honderdne die je eigelijlk wilt.
+Een andere kwaal die ik met Yoast heb (er zijn er meer, maar ik hou het hierbij haha) is dat ze een paar essentiële functionaliteiten achter een betaalmuur stoppen van 99 euro per jaar per website. Zoals de keyword-functionaliteit. Wat mij betreft hoort dat gewoon gratis te zijn. Want nu betaal je 99 euro per jaar per website voor 1 feature uit de honderden die je eigenlijk wilt.
 
-Een kleine UX UI tip dat ik je hier ook geven (ik ben naemlijk een afgestuurde UI UX student ook) is dat je zei dat ze die fucnitoantlieht best wel prominent uitlighetn over hun hele design maar wel vergergneld achter een betaal muur? Waaorm done ze dat? Omda tze weten omda ttde meest mense dat wel nodig hebben en niemand betaald voor de andere features dus daarom doenze dat.
+Een kleine UX/UI-tip die ik je hierbij geef (ik ben namelijk afgestudeerd UX/UI-student): heb je gezien dat ze die functionaliteit best prominent uitlichten in het hele design, maar wel vergrendeld achter een betaalmuur? Waarom doen ze dat? Omdat ze weten dat de meeste mensen dat nodig hebben en niemand betaalt voor de andere features. Daarom.
 
 ## Wat ik bouwde
 
-- Eigen SEO-plugin: geen overbodige functies, geen rommel
-- Doet precies wat nodig is: meta titles, meta descriptions, canonical tags, Open Graph, structured data, sitemap, hreflang
-- Geen instellingenschermen waar je een handleiding voor nodig hebt
-- Gebouwd voor de websites die ik bouw — en daardoor beter dan een generieke oplossing
+En nu naar het onderwerp zelf: ik heb iets beters gebouwd. Ik ben een man van simpliciteit. Ik maak geen complexe apps waar je een handleiding van 100 pagina's voor nodig hebt. Ik maak applicaties die een kind van 5 kan begrijpen.
 
-En nu gaan we naar de topic at hand en dat ik iets beter gebouwd heb. Ik ben een mense van sipmliciiteit, ik maak geen complex apps waar je een 100 pagian handliendign voor nodig heb ik maak applicaties dat je kind van 5 kan begrijpen.
+Een SEO-plugin moet doen wat 'ie moet doen: meta descriptions, canonical tags, Open Graph, structured data, sitemap, hreflang.
 
-Een SEO plugin moet doen wat die moet doen enda tis meta descriptions, canonical tags, Open Graph, structured data, sitemap, hreflang.
+Niks extra's. Een SEO-plugin moet geen blogs voor je schrijven, niet je was doen, en niet je boterham met kaas smeren in de ochtend. Hij moet ervoor zorgen dat Google je website kan indexeren zodat je bezoekers krijgt. Die simpliciteit zorgt ervoor dat je website snel en overzichtelijk blijft.
 
-Niks extras. Alles moet dat gaan doen. Een seo plugin moet niet blogs voor jse chrijven niet je was doen of je broode kaas maken in de ochtend. Het moet ervoor zogren dat google je website kan indexeren zodat je bezoekers kan krijgen voor je website. De simpliciteit zorgt ervoor dat je website snel en overduilijk blijft.
+Je denkt nu waarschijnlijk: okay... maar ik heb wel blogs nodig om mijn positie te verhogen. En daarop zeg ik: jazeker. Maar het is altijd beter om daar aparte plugins voor te hebben, die specifiek voor dat soort taken gebouwd zijn. Niet 1 app die alles halfgebakken doet. Want geloof me, die SEO-plugins die dat aanbieden, doen het halfgebakken.
 
-Je dnekt waarschijnlijk okay... Maar ik heb wel blog snodig om mijn positei te verhogen. En daarop zeg ik jazeker. Maar het is alitjd beter om aparte plugins hiervoor te hebben dat speicife gemaatk zijn voor dit soort taken. Niet 1 app doet alles half gebakken, want geloof mij maar die seo plugisn die dat aanbiden done het haflgebaken.
-
-Naast dit allemaal is mijn seo plguin ook uitbreidbaar ik heb het wel zo gebouwd dat de fudnering goed ligt zodat eventueele extra fucnaitontlieh erop gebowud kunenn wordne. Dus alle speircike featuers di ej enoidg heb wat betreft seo kan allemaal wroden gemaakt, omdat de fundeirng werkt. Ik heb hier een antdere atiel ove rschreven waarom de meeste websites (of in dt geval) een tijdboms zijn vanwege de slechter acirhere (lees heir)
+Daarnaast is mijn SEO-plugin uitbreidbaar. De fundering ligt goed, zodat extra functionaliteit erop gebouwd kan worden als dat nodig is. Alle specifieke SEO-features die je nodig hebt, kunnen worden toegevoegd, omdat het fundament klopt. Ik heb hier een ander artikel over geschreven waarom de meeste websites (of in dit geval plugins) een tijdbom zijn vanwege slechte architectuur. Lees hem hier: [insert artikel]
 
 ## Waarom het beter werkt voor klanten
 
-- Minder code = snellere website = betere Google-positie
-- Geen jaarlijkse kosten per site
-- Alles zit precies op de juiste plek — ik beheer het, niet de klant
-- Concrete resultaten: Antiquewarehouse — [link naar case study]
+Indirect helpt dit dus ook jouw klanten. Want minder code betekent een snellere website. En dat is niet alleen fijner voor Google om te indexeren (indexeren betekent: opslaan zodat Google je website kan tonen), maar ook fijner voor je bezoekers.
+
+Geen enkele klant vindt het leuk om langer dan 2 seconden te wachten per pagina. Dat betekent instant klantverlies. Daarnaast heb je geen jaarlijkse kosten voor een handvol functionaliteiten die je website alleen maar complexer maken.
+
+Voor concrete resultaten, bekijk dit artikel: [insert artikel]
 
 ## Maar kan een gewone website-eigenaar dit?
 
-- Nee, en dat is ook niet het punt
-- Het punt is: de tool die jij gebruikt moet passen bij jouw situatie
-- Als jij een simpele WordPress-website hebt met een beetje hulp — overweeg of Yoast Premium echt nodig is
-- En als je iemand inhuurt: vraag wat ze gebruiken en waarom
+Nu vraag je je waarschijnlijk af: kan een gewone website-eigenaar zelf zo'n custom plugin bouwen? Nee. En dat is ook niet het punt.
+
+Het punt is: de tool die jij gebruikt moet passen bij jouw situatie. Als je een simpele WordPress-website hebt en je redt jezelf met wat hulp, vraag jezelf dan eerlijk af of Yoast Premium echt nodig is. Negen van de tien keer is het antwoord nee.
+
+En als je iemand inhuurt om je website te bouwen: vraag wat ze gebruiken en waarom. Een goede developer kan zonder problemen uitleggen waarom hij voor een bepaalde plugin kiest. Als het antwoord "omdat het standaard zo gaat" is, dan weet je genoeg.
 
 ## CTA
 
-- Ik bouw websites waar SEO van dag 1 goed zit — geen plugin-rommel, geen jaarlijkse kosten
-- Benieuwd wat dat voor jouw website oplevert?
+Ik bouw websites waar SEO vanaf dag 1 goed zit. Geen plugin-rommel, geen jaarlijkse kosten voor features achter een betaalmuur. Gewoon een snelle website die Google snapt en bezoekers vasthoudt.
+
+Benieuwd wat dat voor jouw website kan opleveren? Stuur me een bericht, dan kijken we ernaar.

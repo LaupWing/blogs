@@ -1,34 +1,9 @@
-<!--
-CLAUDE REVIEW
-
-WAT WERKT
-- Sterke opening: noemt Yoast meteen, lezer is binnen 1 zin geanker.
-- Driedelige probleemstructuur is helder. "Voor iedereen gebouwd → traag → betaalmuur" bouwt logisch op.
-- Persoonlijke stem komt door (haha, UX/UI-student-aside, "boterham met kaas").
-- Meertaligheid-paragraaf is een sterke onderscheider en koppelt aan een bestaand artikel.
-- Slot is ingehouden: geen "stuur me een bericht"-CTA. Lezer trekt zelf de conclusie. Beter dan een verkooppraat.
-
-WAT NIET (OF MINDER) WERKT
-- "Wat ik bouwde" noemt de plugin niet bij naam (Snel SEO). Voor een positioneringsstuk wil je dat iemand 'm kan opzoeken. Eén keer noemen is genoeg.
-- Het zinnetje "Voor concrete resultaten, bekijk dit artikel: [link]" voelt los. Zou sterker zijn als je in 1 zin het resultaat zelf noemt (30% meer clicks bij Antiquewarehouse), waarna de link het bewijs is. Nu is het puur doorklikken zonder hook.
-- "Niet je was doen, en niet je boterham met kaas smeren" — 2 voorbeelden achter elkaar is grappig, 1 is scherper. Optioneel.
-- "rocket scientist" werkt, maar je kan ook "geen wiskundeknobbel" of iets Nederlands gebruiken voor consistentie. Subjectief.
-
-CONCRETE AANBEVELINGEN
-1. Noem "Snel SEO" 1x in "Wat ik bouwde" zodat 'ie zoekbaar wordt en de naam blijft hangen.
-2. Herschrijf de Antiquewarehouse-zin: "Bij Antiquewarehouse leverde dit 30% meer clicks op in 3 weken — lees hier hoe." Daarna de link. Resultaat eerst, link tweede.
-3. Drie [insert artikel]-placeholders heb ik ingevuld met de bestaande gepubliceerde URLs (plugins verleden tijd, antiekwinkel case, tijdbom). Check of dat de juiste links zijn.
-
-LET OP
-- Em-dash zit alleen in de H3-titel. Verder schoon.
-- Geen AI-woorden gespot.
--->
-
 ---
-
 title: Yoast SEO is overrated. Ik bouwde iets beters.
 language: nl
-
+status: published
+date: 2026-05-09
+url: https://blog.snelstack.com/yoast-seo-is-overrated-ik-bouwde-iets-beters/
 ---
 
 # Yoast SEO is overrated. Ik bouwde iets beters.

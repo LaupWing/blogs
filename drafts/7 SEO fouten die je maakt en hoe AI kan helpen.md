@@ -1,30 +1,30 @@
 # 7 SEO fouten die je maakt en hoe AI kan helpen
 
-## Intro
+Na tientallen websites te hebben gemaakt voor ondernemers en een persoonlijk portfolio van meer dan 500 projecten te hebben opgebouwd (grootste deel persoonlijke projecten), zie ik dezelfde technische fouten opnieuw en opnieuw. Fouten die direct of indirect invloed hebben op je SEO-score.
 
-Na over tientallen websites hebben gemaakt voor ondermeners en persoonlijk een portifolio heb gebouwd over 500 projecten (groot deel persoonlijke proejcten) zie ik dezelfde technsiche fouten opneiuw en opnoiuw wat direct of indirect invloed heb op je SEO score.
+In dit artikel ga ik de 7 fouten bespreken die ik bijna overal zie, plus de AI-fixes die je per fout kunt toepassen om het probleem sneller en efficiënter op te lossen.
 
-In dit artiekle gai k de 7 fouten bespreken dieik bijna overal zie en eventuele AI fixes die je kan toepassen om het probleem sneller en effeicnet te fixen.
+Maar voordat we verder gaan: wie ben ik, en waarom zou je überhaupt naar een woord luisteren van wat ik te zeggen heb? Ik ben Loc, software-ontwikkelaar met meer dan 10 jaar ervaring. En bij die 10 jaar moet ik wel benadrukken dat ik het grootste deel van mijn carrière echt dagelijks achter de code heb gezeten.
 
-Maar voordat we verder wie ben ik en waarom moet uberhaupt naar een woord lusiteren wat ik te zeggen heb. Ik ben Loc een software ontwikkeler over 10 jaar evarign. En met 10 jaar ervaring moe tik hier wel benadrukken daitk voor een groot deel van mijn carriere echt dagleijkse achter de code zit.
+Daarnaast heb ik zelf hele software-architecturen van begin tot eind gebouwd, een UX/UI-designopleiding gedaan, marketing-kennis opgedaan (150 miljoen impressies op social media), en werk ik samen met mijn broertje die SEO-professional is.
 
-Naast dat heb ik zelf hele software arhchiteren van beign tot eind gemaakt, marketing kennis (150 mijoene imprsseis op social meida), een ux ui design opelieidnge gdaan en werk ik samen met mijn borerjte die SEO proffional is.
-
-Genoeg over mij en laten wij duiken in de 7 SEO fouten en zou ik een concreet voorbeeld gebruiken van mijn recent werk voor een antiekwel.
+Genoeg over mij. Laten we de 7 SEO-fouten doornemen. Als concreet voorbeeld gebruik ik mijn recente werk voor een antiekwinkel genaamd Antiquewarehouse [link].
 
 ## 1. Geen HTTPS
 
-Dit is iets wat voor mij een verrassing was toen ik met mijn eigne b to b softrware bedirjf beogn en dat is hoe verrast ik was hoeveel websites nog op een onbevilgied http techonoige draaide. Voor degene die niet wetne wat het verschil is tusssen http of https of hberhaut niet weten wat dat inhoud is.
+Dit was voor mij een verrassing toen ik met mijn eigen B2B-softwarebedrijf begon: hoeveel websites nog op de onbeveiligde HTTP-technologie draaien. Voor degenen die niet weten wat het verschil is tussen HTTP en HTTPS, of überhaupt niet weten wat dat inhoudt:
 
-Je hoeft niet te weten wat het precies doet en wat het is, maar dat kleine versshicl in letter s beteketn een heelpeboel die ene s staat voor security en als je da tniet heb is je website onbveiligd. Verder hoef je eignelijk niks te weten.
+Je hoeft niet te weten wat het precies doet, maar dat kleine verschil in de letter 's' betekent een hele hoop. Die 's' staat voor security, en als je die niet hebt, is je website onbeveiligd. Verder hoef je eigenlijk niks te weten.
 
-Google zal je zwaar bestraffen als je webiste ongeivelidg. En neit aleeen dat mensen krijgen een eerste bevigligs scherm te zien om de gebtuikers te waarshcuwen dat de webstie onbeiveld en of ze zeker zijn da tze de website wien bezoeken. Je kan je vast wel voorstellen dat dit je bezoekerks gigantaishc afschrioken en voorkomt om uberhaupt op je website te koemn.
+Google zal je zwaar bestraffen als je website onbeveiligd is. En niet alleen dat. Mensen krijgen ook nog eens een waarschuwingsscherm te zien voor ze überhaupt iets van je site kunnen zien — een scherm dat hen waarschuwt dat de website onbeveiligd is en of ze 'm echt willen bezoeken. Je kunt je vast wel voorstellen dat dit je bezoekers gigantisch afschrikt en voorkomt dat ze überhaupt op je site komen.
 
-Dis neit alleen googel zou je straffen voor onbeveilgiehde http websites, je beozekers vertourwens je website vanaf eerste contactmoment ook nog.
+Het is dus niet alleen Google die je straft voor een onbeveiligde HTTP-website. Je bezoekers vertrouwen je site vanaf het eerste contactmoment ook niet.
 
 ### 1.1 AI fix
 
-Van alle punte heeft dit geen AI fix. Het is namelijk een hele sieomple fix en da tis je Lets Encrypt isntalleren vai je hosting. Di tmoe tje wel om de zeoveel tijd gaan referseh, maar afhaanleijk van je website hoster moet je dit zelf doen of word dat autaomtisch egedaan. Voor de antiekwinekle Antiuqerwarehouse stond 96% van de web paginas op http en dat is rampzlaig. Na de fix van de http naar https zagen we vrijwel direct influx op bezoekers (en virjd irect in seo termen is ongeeer 2 weken.)
+Van alle punten in dit artikel heeft dit eigenlijk geen echte AI-fix. Het is namelijk een hele simpele fix: Let's Encrypt installeren via je hosting. Dit moet je wel om de zoveel tijd verlengen, maar afhankelijk van je webhost moet je dat zelf doen of gebeurt het automatisch.
+
+Bij de antiekwinkel Antiquewarehouse stond 96% van de webpagina's op HTTP. Dat is rampzalig. Na de overstap van HTTP naar HTTPS zagen we vrijwel direct een influx aan bezoekers (en "vrijwel direct" in SEO-termen is ongeveer 2 weken).
 
 ## 2. Geen of generieke meta descriptions
 

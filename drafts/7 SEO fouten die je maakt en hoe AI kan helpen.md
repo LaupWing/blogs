@@ -28,12 +28,39 @@ Bij de antiekwinkel Antiquewarehouse stond 96% van de webpagina's op HTTP. Dat i
 
 ## 2. Geen of generieke meta descriptions
 
-- Pijn: Google pakt zelf willekeurig stuk tekst (cookie-banner, navigatie...)
-- Pijn: CTR blijft op 2% hangen i.p.v. 4-5%
-- Veel sites: overal hetzelfde of niks
-- AI-fix: ChatGPT/Claude leest pagina, schrijft conversion-gerichte description
-- AI-fix: 50 unieke descriptions in een uur met juiste prompt
-- Antiquewarehouse: 0 vóór migratie, nu custom per pagina via Snel SEO
+Een beveiligde website is helaas slechts het topje van de ijsberg (alhoewel wel een essentieel topje, want als je nog op HTTP draait heeft de rest hieronder vrijwel geen impact). Naast die fundamentele HTTPS-beveiliging heb je goeie paginabeschrijvingen nodig.
+
+Google moet namelijk weten waar je webpagina over gaat, om vervolgens een preview-tekst te kunnen weergeven in de zoekresultaten. Tenzij je nog nooit Google hebt gebruikt, heb je het waarschijnlijk al gezien: wanneer je iets opzoekt krijg je per resultaat de titel én een beschrijving te zien.
+
+En daar hebben we het nu over: die beschrijving. De beschrijving van je webpagina kan Google op twee manieren bemachtigen. Of Google pakt zelf een willekeurig stuk tekst (kan je cookie-banner zijn, of een stuk navigatie), of jij geeft Google een speciale HTML-tag door genaamd `meta description` waar je precies aangeeft wat de paginabeschrijving is.
+
+Nou... je kunt je voorstellen dat als Google een willekeurig stukje tekst pakt, er een probleem kan ontstaan als dat stukje toevallig uit je cookie-banner komt haha.
+
+De beschrijving van je webpagina heeft dus directe invloed op je CTR (Click Through Rate). Voor de website Antiquewarehouse heb ik voor elke pagina een unieke meta description geschreven, waardoor de CTR steeg van 2% naar 4-5%.
+
+Deze kleine stukjes tekst moet je vaak zelf invullen, meestal met behulp van een SEO-tool. Yoast SEO is een bekende voor WordPress. Zelf gebruik ik mijn eigen plugin, lees hier waarom: [Yoast SEO is overrated. Ik bouwde iets beters](https://blog.snelstack.com/yoast-seo-is-overrated-ik-bouwde-iets-beters/).
+
+### 2.1 AI fix
+
+De AI-fix hier is om je hele webpagina door AI te laten lezen en er een unieke meta description uit te laten genereren. Je laat AI een aantrekkelijke beschrijving maken die ervoor zorgt dat bezoekers ook echt doorklikken naar je site. Dit gaat er natuurlijk vanuit dat je wel redelijke content op je pagina hebt staan.
+
+De meeste SEO-plugins hebben deze AI-functionaliteit inmiddels ingebouwd, dus je hoeft niet per se zelf een prompt te bouwen. Yoast SEO heeft bijvoorbeeld een "AI generate meta description"-feature, maar die zit achter een betaalmuur van €99 per jaar per website. Mijn eigen plugin (Snel SEO) doet precies hetzelfde, alleen dan gratis.
+
+Als je het toch handmatig wilt doen, hier is een prompt die je kunt gebruiken:
+
+```
+[Plak hier de inhoud van je pagina]
+
+Maak een meta description van bovenstaande tekst.
+Mijn doelgroep is: [vul in].
+
+Regels:
+- Maximaal 150 tekens (belangrijk)
+- Filter AI-onzin eruit (em-dashes, woorden als "ontdek", "leverage", "naadloos")
+- Zet er een reden in om door te klikken
+```
+
+Met de juiste prompt produceer je zo 50 unieke descriptions in een uur.
 
 ## 3. Geen JSON-LD / structured data
 

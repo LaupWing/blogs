@@ -32,7 +32,7 @@ Een beveiligde website is helaas slechts het topje van de ijsberg (alhoewel wel 
 
 Google moet namelijk weten waar je webpagina over gaat, om vervolgens een preview-tekst te kunnen weergeven in de zoekresultaten. Tenzij je nog nooit Google hebt gebruikt, heb je het waarschijnlijk al gezien: wanneer je iets opzoekt krijg je per resultaat de titel én een beschrijving te zien.
 
-En daar hebben we het nu over: die beschrijving. De beschrijving van je webpagina kan Google op twee manieren bemachtigen. Of Google pakt zelf een willekeurig stuk tekst (kan je cookie-banner zijn, of een stuk navigatie), of jij geeft Google een speciale HTML-tag door genaamd `meta description` waar je precies aangeeft wat de paginabeschrijving is.
+En daar hebben we het nu over: die beschrijving. De beschrijving van je webpagina kan Google op twee manieren bemachtigen. Of Google pakt zelf een willekeurig stuk tekst (kan je cookie-banner zijn, of een stuk navigatie), of jij geeft Google een speciale HTML-tag door genaamd `meta description` waar je precies aangeeft wat de paginabeschrijving is. Die tag staat in de code van je pagina — je bezoekers zien hem nooit. Maar in Google zoekresultaten wel.
 
 Nou... je kunt je voorstellen dat als Google een willekeurig stukje tekst pakt, er een probleem kan ontstaan als dat stukje toevallig uit je cookie-banner komt haha.
 
@@ -64,11 +64,29 @@ Met de juiste prompt produceer je zo 50 unieke descriptions in een uur.
 
 ## 3. Geen JSON-LD / structured data
 
-- Wat is het: stukje code dat Google vertelt wat er op je pagina staat (product, prijs, voorraad)
-- Pijn: geen rich results in Google (geen sterren, prijzen, voorraad)
-- Pijn: concurrenten met schema springen eruit, jij niet
-- AI-fix: AI leest pagina en genereert Product/Organization/Breadcrumb schema in 30 seconden
-- Antiquewarehouse: Product schema op alle 1.767 producten + Organization + Breadcrumb sitewide
+Net als de meta description is JSON-LD iets wat volledig achter de schermen werkt. Je bezoekers zien het nooit. Het is puur voor Google — een stukje code dat Google vertelt wat er precies op je pagina staat. JSON-LD staat voor JavaScript Object Notation — Linked Data, maar dat hoef je echt niet te onthouden.
+
+Wat je wél moet weten: dankzij JSON-LD kan Google je pagina begrijpen op een dieper niveau. Neem een productpagina. Zonder JSON-LD ziet Google gewoon een hoop tekst. Mét JSON-LD weet Google: dit is een product, het kost €149, het heeft 4,5 sterren, en er zijn nog 3 op voorraad. En dat verschil zie je terug in de zoekresultaten. Concurrenten met structured data krijgen die sterretjes, prijzen en voorraadindicaties zichtbaar in Google. Jij niet.
+
+Er is nog een reden waarom dit tegenwoordig extra belangrijk is: AI-assistenten zoals ChatGPT en Google AI Overviews pikken ook structured data op. Hoe beter je data gestructureerd is, hoe groter de kans dat jouw website wordt opgepikt als antwoord op een vraag.
+
+Yoast genereert wel automatisch wat basisschema's op de achtergrond — Organization, WebPage — maar voor Product schema (de dingen die er echt toe doen voor een webshop) heb je hun WooCommerce SEO addon nodig. Ook betaald, bovenop Yoast Premium. En aanpassen wat Yoast genereert? Beperkt tot vrijwel onmogelijk zonder te betalen. Mijn eigen plugin (Snel SEO) doet dit gratis out of the box, en je kunt het per pagina aanpassen.
+
+Bij Antiquewarehouse was er nul structured data aanwezig. Ik heb Product schema toegevoegd aan alle 1.767 producten, plus Organization schema en Breadcrumb schema sitewide. Dat klinkt als veel werk, maar het was grotendeels geautomatiseerd.
+
+### 3.1 AI fix
+
+Dit is precies het soort werk waar AI goed in is. Je geeft AI de inhoud van je pagina en vraagt het om de juiste JSON-LD te genereren. Voor een productpagina vraag je een Product schema, voor je homepage een Organization schema, voor je navigatiestructuur een Breadcrumb schema. AI genereert dat in 30 seconden in het juiste formaat, dat je vervolgens direct in je `<head>` kunt plakken.
+
+```
+Dit is de inhoud van mijn productpagina:
+[plak hier je paginatekst]
+
+Genereer JSON-LD structured data voor dit product.
+Gebruik het Product schema van schema.org.
+Neem naam, beschrijving, prijs en beschikbaarheid op waar van toepassing.
+Output alleen de JSON-LD code, geen uitleg.
+```
 
 ## 4. Geen XML sitemap
 

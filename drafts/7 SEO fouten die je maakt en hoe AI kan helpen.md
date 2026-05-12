@@ -97,6 +97,8 @@ Output alleen de JSON-LD code, geen uitleg.
 - AI-fix: te veel rommel in sitemap maakt 'm zwakker
 - Antiquewarehouse: gecontroleerde sitemap, configureerbaar per post type
 
+Laatste onderdeel wat je niet ziet maar google daadwerkelijk gebruikt om je website te indexeren en dat is XML sitemap. Het klinkt heel erg eng en technische, maar het is simpeler datn je denkt dat het is. XML sitempa is simpwelweg een bestand met lijst van paginas dat je aan google geeft, zodat google niet je hele website hoeft uit te pluizen.
+
 ## 5. Trage website
 
 - Pijn: rankingfactor + bezoekers haken af na 2 sec

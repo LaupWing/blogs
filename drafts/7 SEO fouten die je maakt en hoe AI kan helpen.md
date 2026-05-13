@@ -130,14 +130,21 @@ Voor mobiel: maak screenshots van je site op desktop en mobiel en laat AI ze ver
 
 ## 6. Geen of verouderde blogcontent
 
-- 70% van Google-zoekopdrachten = long-tail
-- Long-tail vang je alleen met content (blogs, gidsen, antwoorden op echte vragen)
-- Korte transactionele zoekwoorden = keihard concurreren met grote spelers
-- Pijn: site zonder blogs in 2 jaar = "verouderd" voor Google
-- AI-fix: keyword-onderzoek vanuit klantprobleem, niet vanuit aanbod
-- AI-fix: outlines + eerste drafts (jij geeft 'm de stem)
-- AI-fix: 1 blog → 10 social posts via Repurposa
-- Belangrijke nuance: laat AI niet alles schrijven, anders klinkt het AI
+70% van alle Google-zoekopdrachten zijn long-tail. Dat zijn de langere, specifiekere zoekopdrachten zoals "beste bureaustoel voor rugpijn thuiswerken" in plaats van "bureaustoel". Die long-tail zoekopdrachten vang je bijna alleen met blogcontent. Niet met je homepage, niet met je productpagina's.
+
+Het probleem voor de meeste ondernemers: ze proberen te ranken op de korte, drukke zoekwoorden. "WordPress developer", "webdesign", "bureaustoel". Dat zijn woorden waar je als kleine speler keihard moet concurreren met grote websites die al jaren domeinautoriteit opgebouwd hebben. Je maakt geen kans.
+
+Blogs lossen dat op. Met een goede blog beantwoord je specifieke vragen van je klanten, en Google stuurt mensen jouw kant op die precies die vraag stellen. Mensen die al halfweg in hun aankoopbeslissing zitten.
+
+En dan is er nog een tweede probleem: een website zonder recente content wordt door Google als inactief beschouwd. Hoe langer je niks publiceert, hoe minder Google reden heeft om je site te blijven crawlen en hoog te blijven ranken.
+
+Een belangrijke nuance hier: het gaat erom wat je AI geeft om mee te werken. Schrijf zelf de outline met jouw verhaal, jouw voorbeelden en jouw ervaringen. Als AI dát als input krijgt, vult het aan vanuit jouw fundament. Het resultaat klinkt als jou. Gooi je alleen een onderwerp in zonder input, dan krijg je generieke tekst die klinkt als elke andere blog op het internet.
+
+### 6.1 AI fix
+
+AI is het meest waardevol aan het begin van het schrijfproces, niet aan het einde. Gebruik het voor keyword-onderzoek vanuit het klantprobleem — niet vanuit jouw aanbod. Vraag AI: "Wat zoekt iemand op Google die dit probleem heeft?" in plaats van "Geef me zoekwoorden voor mijn dienst." Dat verschil bepaalt of je gevonden wordt.
+
+Daarna kun je AI een outline laten maken op basis van jouw input. Jij bepaalt de richting, AI vult de structuur in. Dan schrijf jij de tekst. Dit is ook precies hoe Repurposa werkt: jij schrijft de ruwe outline, AI genereert de blog, en vanuit die ene blog maak je automatisch een maand aan social media posts. Lees hier hoe: [1 maand social media content in 15 minuten](https://blog.snelstack.com/1-maand-social-media-content-in-15-minuten/).
 
 ## 7. Schrijven in jouw jargon, niet wat klanten Googelen
 

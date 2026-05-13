@@ -90,14 +90,19 @@ Output alleen de JSON-LD code, geen uitleg.
 
 ## 4. Geen XML sitemap
 
-- Wat is het: bestand met lijst van alle pagina's voor Google
-- Pijn: zonder sitemap moet Google je site zelf uitpluizen → diepere pagina's niet geïndexeerd
-- Voorbeeld: 500 producten verkopen, Google heeft er 200 → 300 bestaan niet
-- AI-fix: WordPress kan sitemap zelf, AI helpt beslissen WAT erin moet (welke categorieën, tags, archieven)
-- AI-fix: te veel rommel in sitemap maakt 'm zwakker
-- Antiquewarehouse: gecontroleerde sitemap, configureerbaar per post type
+Dit klinkt technisch, maar het is simpeler dan je denkt. Een XML sitemap is gewoon een bestand met een lijst van alle pagina's op je website, dat je aan Google geeft. Zonder die lijst moet Google je hele site zelf uitpluizen om te ontdekken wat er allemaal op staat. En dat doet Google niet altijd even grondig.
 
-Laatste onderdeel wat je niet ziet maar google daadwerkelijk gebruikt om je website te indexeren en dat is XML sitemap. Het klinkt heel erg eng en technische, maar het is simpeler datn je denkt dat het is. XML sitempa is simpwelweg een bestand met lijst van paginas dat je aan google geeft, zodat google niet je hele website hoeft uit te pluizen.
+Het gevolg: pagina's die wat dieper in je website zitten, worden niet of laat geïndexeerd. Stel je hebt een webshop met 500 producten. Google vindt er 200 en indexeert die. De andere 300 bestaan voor Google simpelweg niet. Je verkoopt ze dus ook niet via organisch zoekverkeer.
+
+Bij Antiquewarehouse ging dit nog een stap verder. De webshop heeft 1.767 producten in 6 talen — dat zijn over 10.000 productpagina's die geïndexeerd moeten worden. Zonder een goed geconfigureerde sitemap had Google daar nooit doorheen gekomen.
+
+Maar er is een tweede probleem dat de meeste mensen over het hoofd zien: wat je in je sitemap stopt. Veel WordPress-websites genereren automatisch sitemaps met van alles erin — paginanummers zoals `/pagina/2`, tag-archieven, auteurspagina's, lege categoriepagina's. Dat is pure rommel. En als je Google een sitemap vol rommel geeft, verdunt dat de waarde van je echte pagina's.
+
+Bij Antiquewarehouse stond de sitemap vol met dit soort onnodige URLs. Ik heb de sitemap opgeschoond en configureerbaar gemaakt per post type — alleen de pagina's die er echt toe doen worden nu aan Google doorgegeven.
+
+### 4.1 AI fix
+
+WordPress genereert sitemaps automatisch via plugins zoals Yoast of mijn eigen Snel SEO. Maar de echte waarde van AI zit hier in de strategie: wat hoort er wel en niet in je sitemap? Gooi je sitemap-inhoud in AI en vraag het om te analyseren welke URL-types weg mogen. AI herkent direct de patronen die Google verzwakken en geeft je een concrete lijst van wat je kunt uitzetten.
 
 ## 5. Trage website
 

@@ -106,16 +106,27 @@ WordPress genereert sitemaps automatisch via plugins zoals Yoast of mijn eigen S
 
 ## 5. Trage website
 
-- Pijn: rankingfactor + bezoekers haken af na 2 sec
-- Boosdoeners: te veel plugins, ongeoptimaliseerde images, render-blocking fonts
-- AI-fix: AI vertaalt PageSpeed-output naar normale taal
-- AI-fix: image-compressie via TinyPNG/Squoosh → 70-80% kleiner zonder zichtbaar verlies
-- AI-fix: AI scant plugin-lijst en stelt voor welke je kunt vervangen door simpele code
-- Link naar [3 redenen waarom WordPress plugins verleden tijd zijn](https://blog.snelstack.com/3-redenen-waarom-wordpress-plugins-verleden-tijd-zijn/)
-- Antiquewarehouse: hero-image preload + srcset + fetchpriority="high", Google Fonts async
-- Bonus: mobiel-vriendelijkheid. Google indexeert sinds 2019 mobile-first → trage of rommelige mobiele site is extra dodelijk
-- Nuance: meeste moderne WordPress-themes zijn al mobielvriendelijk by default, dus dit is meestal geen probleem. Wel even checken op een echte telefoon (geen desktop-resize) of het er goed uitziet
-- AI-fix mobile: vraag AI om je mobile vs desktop screenshots te vergelijken — vindt layout-issues + stelt CSS-fixes voor
+Snelheid is een directe rankingfactor voor Google. Hoe trager je website, hoe lager je rankt. Maar los van Google: geen enkele bezoeker wacht langer dan 2 seconden. Als je pagina er langer over doet, zijn ze weg. Naar een concurrent die wél snel laadt.
+
+De drie boosdoeners die ik het vaakst zie:
+
+**Te veel plugins.** Elke plugin laadt extra code op elke pagina. Veel van die code heeft je bezoeker helemaal niet nodig. Ik heb hier een apart artikel over geschreven: [3 redenen waarom WordPress plugins verleden tijd zijn](https://blog.snelstack.com/3-redenen-waarom-wordpress-plugins-verleden-tijd-zijn/).
+
+**Ongeoptimaliseerde afbeeldingen.** Een foto van 4MB die je gewoon uploadt zonder te comprimeren is een van de makkelijkste manieren om je website te vertragen. Tools zoals TinyPNG of Squoosh comprimeren afbeeldingen 70-80% zonder zichtbaar kwaliteitsverlies.
+
+**Render-blocking fonts en scripts.** Google Fonts die de pagina blokkeren terwijl ze laden — dit zien developers zelf vaak niet omdat ze op een snelle verbinding werken en het verschil niet merken.
+
+Bij Antiquewarehouse heb ik de hero-image voorzien van `preload`, `srcset` en `fetchpriority="high"`, en Google Fonts asynchroon geladen. Kleine ingrepen, merkbaar verschil in laadtijd.
+
+**Bonus: mobiel.** Sinds 2019 indexeert Google mobile-first. Dat betekent dat Google jouw site beoordeelt op basis van hoe hij eruitziet op een telefoon, niet op desktop. De meeste moderne WordPress-themes zijn al mobielvriendelijk, dus dit is meestal geen groot probleem — maar check het even op een echte telefoon, niet door je browservenster kleiner te maken.
+
+### 5.1 AI fix
+
+Google PageSpeed Insights geeft je een rapport met alles wat traag is op je website. Het probleem: dat rapport is technisch en voor de meeste mensen onleesbaar. Kopieer de output en gooi het in AI. Vraag het om in gewone taal uit te leggen wat de drie grootste problemen zijn en hoe je ze oplost. Je krijgt direct een actielijst.
+
+AI kan ook je lijst met geïnstalleerde plugins scannen en aangeven welke vervangen kunnen worden door een paar regels code. Minder plugins, minder code, snellere website.
+
+Voor mobiel: maak screenshots van je site op desktop en mobiel en laat AI ze vergelijken. AI pikt layout-problemen op die je zelf over het hoofd ziet en stelt concrete CSS-fixes voor.
 
 ## 6. Geen of verouderde blogcontent
 

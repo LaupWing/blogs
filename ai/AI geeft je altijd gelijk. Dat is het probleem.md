@@ -20,8 +20,8 @@ STATUS: Aanbevelingen geïmplementeerd.
 -->
 
 ---
-status: draft
----
+
+## status: draft
 
 # AI geeft je altijd gelijk. Dat is het probleem.
 
